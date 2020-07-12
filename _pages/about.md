@@ -32,7 +32,7 @@ My research interests are:
 Humans are pretty good at saying that.   
 When I visit Montreal and someone speaks French to me, I panic and somehow indicate that I don't know French.
 This seems like basic human instinct.  Yet, most of our AIs today struggle with declaring what they don't know.
-I thought this would be quite useful build into AI.  
+I thought this would be quite useful to build into AI.  
 On my way to figuring that out (i.e. how to declare something being 'out-of-distribution'), I learned about ideas from the topic of generative models, and Bayesian inference.  
 
 
@@ -40,7 +40,7 @@ On my way to figuring that out (i.e. how to declare something being 'out-of-dist
 
 ## Professional Experience
 I was
-* a intern at Google Brain (MTV, TOR) in 2018 hosted by [Chung-Cheng Chiu](https://ai.google/research/people/ChungChengChiu). We worked on speech recognition together.
+* an intern at Google Brain (MTV, TOR) in 2018 hosted by [Chung-Cheng Chiu](https://ai.google/research/people/ChungChengChiu). We worked on speech recognition together.
 * a research student working with the Toronto Raptors' analysts Keith Boyarsky and Eric Khoury. My mom likes to believe that the Toronto Raptors getting better, and eventually winning the Championship in 2019 had something to do with my research. 🤔
 * a ML consultant at SmartFinance LLC, a start-up Rich co-founded. We had some fun trying to make finance easier with ML. 
 
