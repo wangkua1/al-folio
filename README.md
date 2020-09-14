@@ -1,3 +1,13 @@
+# quick cmds
+local testing
+```
+bundle exec jekyll serve
+```
+publishing
+```
+./bin/deploy --user
+```
+
 # al-folio
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
