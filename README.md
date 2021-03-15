@@ -1,4 +1,11 @@
 # quick cmds
+make sure to use the right ruby version
+```
+rbenv global 2.6.5
+ruby -v
+```
+if version is incorrect, make sure `~/.bashrc` is sourced.
+
 local testing
 ```
 bundle exec jekyll serve
